@@ -1,0 +1,17 @@
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.Infrastructure.deps.json
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.Infrastructure.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/ref/Dotnet.Infrastructure.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.Infrastructure.pdb
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.core.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.Services.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.core.pdb
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/bin/Debug/net6.0/Dotnet.Services.pdb
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.csproj.AssemblyReference.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.AssemblyInfoInputs.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.AssemblyInfo.cs
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.csproj.CopyComplete
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/ref/Dotnet.Infrastructure.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Infrastructure/obj/Debug/net6.0/Dotnet.Infrastructure.pdb

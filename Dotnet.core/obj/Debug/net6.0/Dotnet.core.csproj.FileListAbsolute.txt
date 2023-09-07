@@ -1,0 +1,12 @@
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/bin/Debug/net6.0/Dotnet.core.deps.json
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/bin/Debug/net6.0/Dotnet.core.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/bin/Debug/net6.0/ref/Dotnet.core.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/bin/Debug/net6.0/Dotnet.core.pdb
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.csproj.AssemblyReference.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.AssemblyInfoInputs.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.AssemblyInfo.cs
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.csproj.CoreCompileInputs.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/ref/Dotnet.core.dll
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.core/obj/Debug/net6.0/Dotnet.core.pdb
