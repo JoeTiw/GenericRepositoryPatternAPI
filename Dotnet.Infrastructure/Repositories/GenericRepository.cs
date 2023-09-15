@@ -7,7 +7,7 @@ namespace Dotnet.Infrastructure.Repositories;
 
 public class GenericRepository<T> : IGenericRepository<T> where T : class
 {
-    private readonly ApplicationDbContext _dbContext; //declaring
+    protected readonly ApplicationDbContext _dbContext; //declaring
 
     public GenericRepository(ApplicationDbContext dbContext)
     {

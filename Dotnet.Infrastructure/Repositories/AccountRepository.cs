@@ -5,27 +5,26 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Dotnet.Infrastructure.Repositories;
 
-public class AccountRepository : IAccountRepository
+public class AccountRepository : GenericRepository<Login>, IAccountRepository
 {
-    private readonly ApplicationDbContext _dbContext;
-
-    public AccountRepository(ApplicationDbContext applicationDbContext)
-    {
-        _dbContext = applicationDbContext;
+    public AccountRepository(ApplicationDbContext dbContext) : base(dbContext) { 
     }
-    
-    public async Task<bool> UserRegistration(UserRegister userRegister)
+        
+    public async Task<bool> Login(string username, string password)
     {
-        throw new NotImplementedException();
-    }
-
-    public async Task<bool> Login(UserLogin userLogin)
-    {
-        var result = await _dbContext.UserLogin.FirstOrDefaultAsync(x => x.Username == userLogin.Username
-                                                         && x.Password == userLogin.Password);
+        var result = await _dbContext.Login.FirstOrDefaultAsync(x => x.Username == username && x.Password == password);
         if (result == null)
             return false;
         else
             return true;
+    }
+
+    public async Task<Login> GetUserByUsername(string username)
+    {
+        var result = await _dbContext.Login.FirstOrDefaultAsync(x => x.Username == username );
+        if (result == null)
+            return null;
+        else
+            return result;
     }
 }

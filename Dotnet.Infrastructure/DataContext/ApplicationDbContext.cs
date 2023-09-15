@@ -17,8 +17,8 @@ public class ApplicationDbContext : DbContext
 
     public DbSet<Product> Product { get; set; }
 
-    public DbSet<UserRegister> UserRegister { get; set; }
 
-    public DbSet<UserLogin> UserLogin { get; set; }
+
+    public DbSet<Login> Login { get; set; }
 
 }

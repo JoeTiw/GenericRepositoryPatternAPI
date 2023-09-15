@@ -65,3 +65,4 @@
 /Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.API/obj/Debug/net6.0/ref/Dotnet.API.dll
 /Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.API/obj/Debug/net6.0/Dotnet.API.pdb
 /Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.API/obj/Debug/net6.0/Dotnet.API.genruntimeconfig.cache
+/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

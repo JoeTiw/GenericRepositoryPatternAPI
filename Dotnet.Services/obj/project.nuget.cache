@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "kKttgjj9UbQ3lPyRnfpa2wnvvGLZ+bppFgVPSzryOccmwpVQOfbApBGRZXCOgJSho+12kU1ESTqdzpbgE/zNPg==",
+  "dgSpecHash": "Yk/8JWgkdcAgQn+D84vzw8gquSGsKJ07kTo/l32CFSgmPkzwkgp3gZYMegrdmQDBEO4IgvW+tqj6JixihWvLXw==",
   "success": true,
   "projectFilePath": "/Users/bhupintiwari/RiderProjects/Learning_API/Dotnet.Services/Dotnet.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bhupintiwari/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.21/microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/bhupintiwari/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
