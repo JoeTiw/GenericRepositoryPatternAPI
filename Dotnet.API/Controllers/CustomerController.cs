@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Learning_API.Controllers;
 
-[Authorize]
+//[Authorize]
 [Route("api/[controller]")]
 [ApiController]
 public class CustomerController : ControllerBase

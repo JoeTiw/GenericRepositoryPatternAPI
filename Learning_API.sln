@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Services", "Dotnet.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Infrastructure", "Dotnet.Infrastructure\Dotnet.Infrastructure.csproj", "{A0BD90BC-010D-4C0C-A0E5-6FDA6944FE63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Web", "Dotnet.Web\Dotnet.Web.csproj", "{F5C6BC9C-B06E-4014-9A31-BF9D268AC6ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A0BD90BC-010D-4C0C-A0E5-6FDA6944FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BD90BC-010D-4C0C-A0E5-6FDA6944FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BD90BC-010D-4C0C-A0E5-6FDA6944FE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C6BC9C-B06E-4014-9A31-BF9D268AC6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C6BC9C-B06E-4014-9A31-BF9D268AC6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C6BC9C-B06E-4014-9A31-BF9D268AC6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C6BC9C-B06E-4014-9A31-BF9D268AC6ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
